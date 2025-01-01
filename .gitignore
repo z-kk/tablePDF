@@ -5,3 +5,4 @@ htmldocs/
 bin/
 tests/*
 !tests/*.nim*
+sampledata/*.pdf
